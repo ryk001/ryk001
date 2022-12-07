@@ -1,4 +1,4 @@
-# 🔥 I love trading, I love programming, so why not combine both?
+# 🔥 I love trading, I love programming, why not combine both?
 - From Taiwan, currently a MS Finance student in Fudan, Shanghai
 - 🏀 Leading a sid-project team of quant & research, investing in Taiwansese stock market
 - 📈 Mid-term goal: developing a profit-making quant trading strategy
