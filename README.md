@@ -3,4 +3,4 @@
 - 🏀 Leading a sid-project team of quant & research, investing in Taiwansese stock market
 - 📈 Mid-term goal: developing a profit-making quant trading strategy
 - 📈 Long-term goal: become a super investor with the power of coding 🐯
-- 📫 You can reach me at IG: ry.001 😉
+- 📫 You can reach me at IG: ry.001
